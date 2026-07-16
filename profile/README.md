@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../assets/rusm.svg" width="25%" alt="rusm logo"> 
+    <img src="../assets/TRO.svg" width="60%" alt="TRO logo"> 
 </p>
 <h1 align="center">The Rusm Organization</h1>
 
